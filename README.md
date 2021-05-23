@@ -8,8 +8,8 @@ Car Registration details test
 
 User should have Java 8, Maven and Chrome/Mozilla browser
 
-**How to execute
-**
+**How to execute**
+
 1. Clone the project using git clone https://github.com/kommurunagendra/car-registration.git 
 2. Open git terminal and navigate to car-registation project folder
 3. Use mvn clean install to compile code and downloads the repository
