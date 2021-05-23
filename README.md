@@ -1,5 +1,4 @@
-Car Registration details test
-
+**Car Registration details test**
 
 **Scenarios:**
 1. Reading input file and search each registration number and verify registration details with output file
