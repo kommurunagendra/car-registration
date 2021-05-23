@@ -20,7 +20,7 @@ import static org.junit.Assert.*;
  *
  * @author Nagendra Kommuru
  */
-public class CheckRegistrationStepDef extends BasePage {
+public class CarRegistrationSteps extends BasePage {
 
     private List<String> regNumbers;
     private SearchPage searchpage;

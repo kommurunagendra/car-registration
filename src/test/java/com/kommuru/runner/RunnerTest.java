@@ -18,7 +18,7 @@ import org.junit.runner.RunWith;
                 "pretty", "html:target/car-registration-report",
                 "json:target/car-registration-report/cucumber.json",
                 "rerun:target/car-registration-report/rerun.txt"},
-        tags = "@search",
+        tags = "@car-reg-details",
         glue = {"com/kommuru/steps/"})
 public class RunnerTest {
 }
